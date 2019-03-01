@@ -16,6 +16,7 @@
 #include "BaconAna/DataFormats/interface/TPFPart.hh"
 #include "BaconAna/DataFormats/interface/TRHPart.hh"
 #include "BaconAna/DataFormats/interface/TSVtx.hh"
+
 #endif
 
 #ifdef __CINT__
@@ -42,4 +43,5 @@
 #pragma link C++ class baconhep::TPFPart+;
 #pragma link C++ class baconhep::TRHPart+;
 #pragma link C++ class baconhep::TSVtx+;
+
 #endif

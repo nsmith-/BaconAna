@@ -1,0 +1,19 @@
+<lcgdict>
+  <class name="std::bitset<256>"/>
+  <class name="baconhep::TEventInfo"/>
+  <class name="baconhep::TLHEWeight"/>
+  <class name="baconhep::TGenEventInfo"/>
+  <class name="baconhep::TGenParticle"/>
+  <class name="baconhep::TGenJet"/>
+  <class name="baconhep::TElectron"/>
+  <class name="baconhep::TMuon"/>
+  <class name="baconhep::TTau"/>
+  <class name="baconhep::TAddJet"/>
+  <class name="baconhep::TJet"/>
+  <class name="baconhep::TCaloJet"/>
+  <class name="baconhep::TPhoton"/>
+  <class name="baconhep::TVertex"/>
+  <class name="baconhep::TPFPart"/>
+  <class name="baconhep::TRHPart"/>
+  <class name="baconhep::TSVtx"/>
+</lcgdict>
